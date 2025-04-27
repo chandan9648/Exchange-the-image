@@ -1,5 +1,5 @@
 var img1 = document.querySelector('#img1')
-var img2 = document.querySelector('#img2')
+var img2 = document.querySelector('#img2')  
 
 var btn = document.querySelector('button')
 
